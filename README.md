@@ -13,9 +13,16 @@ To study and implement the concept of Recursion in C++.
 - Compare recursion with iteration in terms of readability, performance, and memory usage.
 - Explore real-world applications of recursion such as divide-and-conquer algorithms, tree traversals, and backtracking.
 
----
+## Algorithm 
+1. Define the base case to stop recursion.
+2. Define the recursive case where the function calls itself.
+3. Ensure each recursive call moves toward the base case.
+4. Call the recursive function with the initial input.
+5. Use returned results from recursive calls if needed.
+6. Complete recursion when base case is reached.
 
-## Detailed Theory
+
+##  Theory
 
 ### What is Recursion?
 Recursion is a programming technique where a function calls itself directly or indirectly to solve a problem. It breaks down complex problems into smaller subproblems of the same type.
